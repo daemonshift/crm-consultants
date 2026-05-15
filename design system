@@ -1,0 +1,69 @@
+## 🎨 Design System — ClientFlow CRM
+
+### Couleurs de fond
+| Nom | Code | Usage |
+|---|---|---|
+| Background principal | `#0f1117` | Fond de toutes les pages |
+| Sidebar | `#151820` | Fond de la barre de navigation |
+| Card / Tableau | `#1a1f2e` | Fond des cartes et tableaux |
+| Row hover | `#1e2435` | Survol des lignes du tableau |
+| Border | `#252a3a` | Bordures des cartes et inputs |
+
+### Couleurs de texte
+| Nom | Code | Usage |
+|---|---|---|
+| Texte principal | `#e8eaf0` | Titres et textes importants |
+| Texte secondaire | `#8892a4` | Sous-titres et labels |
+| Texte muet | `#555e72` | En-têtes de tableau |
+
+### Couleurs d'accent
+| Nom | Code | Usage |
+|---|---|---|
+| Vert accent | `#2dd4a0` | Logo, chiffres stats, bouton principal |
+| Vert foncé | `#1a8c69` | Hover bouton principal |
+| Bleu | `#60a5fa` | Statut "Prospect" |
+| Jaune | `#f59e0b` | Statut "Devis envoyé" |
+| Orange | `#f97316` | Alertes |
+| Rouge | `#f87171` | Priorité haute |
+| Gris | `#555e72` | Statut "Terminé" |
+
+### Statuts et leurs couleurs
+| Statut | Couleur |
+|---|---|
+| Mission en cours | `#2dd4a0` vert |
+| Prospect | `#60a5fa` bleu |
+| Devis envoyé | `#f59e0b` jaune |
+| Terminé | `#555e72` gris |
+| En attente | `#60a5fa` bleu |
+| Payé | `#2dd4a0` vert |
+| A faire | `#60a5fa` bleu |
+| En cours | `#f59e0b` jaune |
+| Planifiée | `#555e72` gris |
+
+### Priorités et leurs couleurs
+| Priorité | Couleur |
+|---|---|
+| Haute | `#f87171` rouge |
+| Moyenne | `#f59e0b` jaune |
+| Normale | `#8892a4` gris |
+| Basse | `#555e72` gris foncé |
+
+### Typographie
+| Nom | Police | Taille | Graisse |
+|---|---|---|---|
+| Titre page | Inter | 28px | Bold 700 |
+| Titre section | Inter | 17px | SemiBold 600 |
+| Navigation | Inter | 14px | Medium 500 |
+| Texte normal | Inter | 14px | Regular 400 |
+| Label tableau | Inter | 13px | Regular 400 |
+| Stat chiffre | Inter | 26px | Bold 700 |
+
+### Espacements
+| Élément | Valeur |
+|---|---|
+| Padding page | 36px haut, 40px gauche |
+| Gap cartes stats | 12px |
+| Padding carte | 20px |
+| Border radius carte | 10px |
+| Padding cellule tableau | 14px haut/bas, 18px gauche/droite |
+| Gap navigation sidebar | 8px |
